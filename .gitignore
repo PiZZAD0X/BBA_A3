@@ -1,6 +1,6 @@
 *.pbo
-release/
+releases/
 
-@PZPL/
+@BBA/
 
 *.zip
