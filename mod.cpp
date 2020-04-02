@@ -1,0 +1,13 @@
+name = "BearCave Base Addons";
+picture = "";
+actionName = "GitHub";
+action = "https://github.com/PiZZAD0X/";
+description = "BBA - Version 0.1.0";
+logo = "";
+logoOver = "";
+logoSmall = "";
+tooltip = "BBA";
+tooltipOwned = "BBA Team";
+overview = "BBA Extends CBA Features";
+author = "BBA Team";
+overviewPicture = "";

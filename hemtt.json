@@ -1,0 +1,9 @@
+{
+  "name": "BBA",
+  "prefix": "BBA",
+  "author": "BBA Team",
+  "files": [
+    "mod.cpp"
+  ],
+  "sigversion": 3
+}
